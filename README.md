@@ -1,5 +1,6 @@
 ## Debezium + Kafka CDC
 Repository for Medium post 
+- [Medium - Simple CDC with Debezium + Kafka](https://medium.com/nagoya-foundation/simple-cdc-with-debezium-kafka-a27b28d8c3b8)
 
 ## Running locally
 To run the project I created a Makefile with the commands.
@@ -139,6 +140,5 @@ The payload contains three crucial information: _before_, _after_ and _source_
 
 
 ## References
-- [Medium - Simple CDC with Debezium + Kafka](https://medium.com/nagoya-foundation/simple-cdc-with-debezium-kafka-a27b28d8c3b8)
 - [Debezium - MySQL Connector](https://debezium.io/documentation/reference/1.6/connectors/mysql.html)
 - [Debezium - MongoDb Connector](https://debezium.io/documentation/reference/1.6/connectors/mongodb.html)
